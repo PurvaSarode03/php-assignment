@@ -32,3 +32,20 @@ This project allows users to log in and manage products using CRUD operations.
 
 ---
 
+
+### 🔐 Login Page
+
+![Login Page](login.jpeg)
+
+### 📝 Register Page
+
+![Register Page](register.jpeg)
+
+### 📊 Dashboard
+
+![Dashboard](dashboard.jpeg)
+
+### 📄 CSV Export
+
+![CSV Export](csv.jpeg)
+
